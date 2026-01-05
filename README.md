@@ -55,11 +55,11 @@ To run this project on your local machine:
 
 | Real-Time Monitoring | Storm Simulation (Red Alert) |
 |:---:|:---:|
-| <img width="1710" height="1073" alt="Screenshot 2026-01-05 at 12 54 45 PM" src="https://github.com/user-attachments/assets/10418b73-668b-49b2-9229-58aa62c53a87" />
-<img width="1710" height="1073" alt="Screenshot 2026-01-05 at 12 54 25 PM" src="https://github.com/user-attachments/assets/bf576471-1c85-47e6-99ad-47e531be997d" />
- | <img width="1710" height="1073" alt="Screenshot 2026-01-05 at 12 55 16 PM" src="https://github.com/user-attachments/assets/2fd8aefa-efb8-4002-945d-460bcdc2e9b7" />
+| <img width="1710" height="1073" alt="Screenshot 2026-01-05 at 12 54 25 PM" src="https://github.com/user-attachments/assets/bf576471-1c85-47e6-99ad-47e531be997d" />
+<img width="1710" height="1073" alt="Screenshot 2026-01-05 at 12 54 45 PM" src="https://github.com/user-attachments/assets/10418b73-668b-49b2-9229-58aa62c53a87" />
+|
 <img width="1710" height="1073" alt="Screenshot 2026-01-05 at 12 55 06 PM" src="https://github.com/user-attachments/assets/53cc60f0-0072-42d0-9a5a-686e25f418b4" />
- |
+<img width="1710" height="1073" alt="Screenshot 2026-01-05 at 12 55 16 PM" src="https://github.com/user-attachments/assets/2fd8aefa-efb8-4002-945d-460bcdc2e9b7" /> |
 
 ---
 
